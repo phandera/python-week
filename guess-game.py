@@ -1,3 +1,5 @@
+#This game is fine however I was expecting that you use the knowledge that I taught you. Please create another version of this game that does not use the random module.
+
 from random import randint
 print("GUESSSING GAME")
 guess=int(input("Guess a any number : "))
