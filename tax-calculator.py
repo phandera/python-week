@@ -10,4 +10,4 @@ elif cost <= 50000 :
    tax=cost*0.5
 else: print("Invalid cost")
 
-print("BIKE costing ",cost,", is tasked",tax)
+print("BIKE costs : ",cost,", tax: ",tax)
